@@ -484,3 +484,14 @@ footer a {
     transform: translate(-50%);
   }
 }
+
+aside div {
+  position: relative;
+}
+.fa-tag {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 5rem;
+  color: lightgray ;
+}
